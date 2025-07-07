@@ -31,7 +31,7 @@ A full-stack, Databricks-themed conversational assistant for supply chain querie
 
 ### 0. Databricks assets
 
-You can kick start your project with Databricks’ Supply-Chain Optimization Solution Accelerator (or any other accelerator if working in a different industry). Clone this accelerator’s GitHub repo into your Databricks workspace and run the bundled notebooks:
+You can kick start your project with Databricks’ Supply-Chain Optimization Solution Accelerator (or any other accelerator if working in a different industry). Clone this accelerator’s GitHub repo into your Databricks workspace and run the bundled notebooks either sequentially or by just running notebook 1:
 
 https://github.com/lararachidi/agent-supply-chain/blob/main/README.md
 
